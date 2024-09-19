@@ -2,14 +2,14 @@ Privacy Policy
 
 Last updated: 09/18/2024
 
-1. Introduction
+Introduction
+Welcome to "PyGasket & PyValFit: Elevate Your Piping Experience." This Privacy Policy explains our commitment to providing a safe and secure user experience with our application.
 
-Welcome to "PyGasket & PyValFit: Elevate Your Piping Experience" . We respect your privacy and want to inform you that our Python script does not collect, use, disclose, or store any of your personal information. This Privacy Policy explains our data practices.
+Scope
+This policy applies to your use of the application and its features. It outlines the general terms and conditions of usage.
 
-2. Changes to This Privacy Policy
+Updates to This Policy
+We may make changes to this Privacy Policy to reflect any updates in functionality. Any changes will be posted on this page, and you are encouraged to review it periodically.
 
-While our script does not involve data collection, we may update this Privacy Policy as needed to reflect any changes in its functionality or usage. We will notify you of any changes by posting the updated Privacy Policy on this page.
-
-3. Contact Us
-
-If you have any questions or concerns about our Privacy Policy or the operation of our Python script, please contact us at service@expertahmed.com.
+Contact Information
+For any inquiries about this Privacy Policy, feel free to reach out to us at service@expertahmed.com.
