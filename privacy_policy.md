@@ -4,7 +4,7 @@ Last updated: 09/18/2024
 
 1. Introduction
 
-Welcome to "Python Bolts: Elevate Your Piping Experience" . We respect your privacy and want to inform you that our Python script does not collect, use, disclose, or store any of your personal information. This Privacy Policy explains our data practices.
+Welcome to "PyGasket & PyValFit: Elevate Your Piping Experience" . We respect your privacy and want to inform you that our Python script does not collect, use, disclose, or store any of your personal information. This Privacy Policy explains our data practices.
 
 2. Changes to This Privacy Policy
 
